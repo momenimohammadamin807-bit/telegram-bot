@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+persiantools
+astral==2.2
+ephem
+pytz
